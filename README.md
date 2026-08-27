@@ -9,3 +9,7 @@
 2. Meaning of life essay
    [en](articles/meaning_of_life_essay/en_us.md)
    [ru](articles/meaning_of_life_essay/ru_ua.md)
+
+3. Future of humanity essay
+   [en](articles/future_of_humanity_essay/en_us.md)
+   [ru](articles/future_of_humanity_essay/ru_ua.md)
