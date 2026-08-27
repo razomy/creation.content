@@ -1,4 +1,4 @@
-**Principles of the Universe — Essay Article (RU-UKR to EN)**
+**Principles of the Universe Essay**
 
 **I have always been troubled by the following questions:**
 
@@ -17,9 +17,11 @@
 *   Through development,
 *   Through balance,
 *   Through entropy.
+* 
 Yet, a sense of emptiness always remains in the answer.
 
 **Let us try to understand this world.**
+
 To avoid fantasies or invented meanings, we will seek them logically.
 It is important to warn that the modern world is full of false or incomplete interpretations.
 Therefore, I will outline key factors through my own perspective.
@@ -27,6 +29,7 @@ Therefore, I will outline key factors through my own perspective.
 ### What do we know about this world?
 
 **What do we perceive?**
+
 Reality is described by various terms: geometric, probabilistic, subjective, or divine.
 But if we reduce all diversity of phenomena to a single definition,
 the most universal word would be — “substrate.”
@@ -42,17 +45,20 @@ Thus, what we call “reality” is
 the result of the interaction between our "Self" and the substrate.
 
 **Is there cause-and-effect?**
+
 Yes. This is when one action causes another event or reaction.
 For example, a soccer ball rolls because someone pushed it.
 Or, hydrogen fusion at high temperatures creates helium and releases colossal energy in stars and nuclear bombs.
 
 **Is there chaos?**
+
 Yes. Chaos is the unstable intertwining of cause-and-effect links occurring simultaneously.
 It is impossible to fully comprehend or predict them.
 Examples: sharp price fluctuations in the market or sudden catastrophes.
 (Chaos at the quantum level, its behavior is unknown).
 
 **Is there repetition (symmetry)?**
+
 Yes. When similar events repeat twice or more.
 For example, rivers flow in the same beds.
 Planets rotate in stable, repetitive trajectories.
@@ -60,6 +66,7 @@ Atoms have specific electron layers, size, and position.
 Within chaos, there are structures of certainty (attractors) — conditions under which similar events repeat over and over again with minimal difference.
 
 **Thus, we know the following:**
+
 We are all substrate in a sequential Universe
 that unpredictably changes
 and yet possesses partial stability.
@@ -74,6 +81,7 @@ What research tells us:
 4.  At the end, there will be the dissipation (entropy) of this energy.
 
 **Why does the world exist in the first place?**
+
 Through repetition (symmetry), we describe balance, logic, mathematics, and abstractions (ideals).
 But the main question is that if the Universe were absolutely symmetrical,
 it would be predictable (deterministic) and homogeneous.
@@ -85,6 +93,7 @@ because it is born from what does not yet exist in symmetry.
 Therefore, the Universe constantly adds to its rules of the game, using new properties (asymmetries).
 
 **What is the life of the Universe?**
+
 Suppose that at the beginning there was "nothing" (singularity) — a state where nothing ever existed.
 Then an explosion occurred, releasing a massive amount of compressed substrate.
 This substrate began to "cool" and collect into matter (quarks, atoms),
@@ -98,6 +107,7 @@ This suggests the cyclicality of the Universe, but this is currently only an ass
 ### What is the Universe made of?
 
 **What does this "cooling" of the Universe mean?**
+
 Consider chains of complexity (emergence):
 
 *   From energy (waves), quarks were created;
@@ -120,6 +130,7 @@ The Universe acquires more complex and stable conditions (environment).
 Chaos is replaced by controllability.
 
 **What conditions are necessary for complexity?**
+
 Why didn't all this happen inside the Sun, where there is much more energy?
 Or in open space, where it is easier to create structures due to the vacuum, like with Lego?
 Here, an interesting pattern is visible: all changes occur where chaos is in balance (“edge of chaos”).
@@ -133,6 +144,7 @@ Interestingly, all physical changes follow the path of least action;
 despite the chaos of nature, the probability of repeating a particular scenario is quite high.
 
 **Does "complexity" increase energy dissipation (entropy)?**
+
 Globally — yes. When the first quarks were created, energy acquired local stability and entropy reduction.
 Planets and stars formed interplanetary stability.
 Evolution invented the brain — one of the most stable (complex) systems.
@@ -143,6 +155,7 @@ However, there is an important point: humans constantly optimize these costs,
 which allows them to create more complex and efficient solutions.
 
 **What is space?**
+
 We are accustomed to perceiving it as 3D space. But how was it created?
 
 We know that quantum fluctuations exist in space, capable of creating particles.
@@ -164,6 +177,7 @@ or collapses into a single point (singularity) (Cyclic Universe Hypothesis).
 #### What is all this for in the Universe?
 
 **Why does complexity work this way?**
+
 If we look closely, we see the same scheme at all levels:
 simple elements unite into more complex ones,
 which in turn become "building blocks" for even larger structures.
@@ -176,6 +190,7 @@ therefore everything in it acquires a stable form,
 and the movement of energy causes constant development.
 
 **Where is everything going?**
+
 It can be assumed that dissipation (entropy) leads everything to "nothing."
 And a question arises: what is all this for if there is emptiness at the end?
 
@@ -204,12 +219,14 @@ But let us try to project it onto the Universe.
 4.  This process reproduces itself.
 
 **Therefore,**
+
 The meaning of our Universe is not in random existence, but in the constant taming of chaos.
 Each new level (from fluctuations to cell to civilization)
 participates in the creation of increasingly complex and stable structures.
 Thereby, the Universe updates the "rules of the game" itself, making them more predictable and optimal.
 
 ### What is the meaning of Humans in the Universe?
+
 A human is one of many elements that maintains local stability
 and extracts order from chaos, creates information, complex systems, and new levels of emergence.
 Thereby, humanity allows the Universe to recognize its own laws through observing systems (our consciousness).
