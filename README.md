@@ -3,7 +3,8 @@
 ### Books
 
 1. Edge of Dao
-   [en](books/edge_of_dao/ru_ua.md)
+   [en](books/edge_of_dao/en_us.md)
+   [ru](books/edge_of_dao/ru_ua.md)
 
 ### Articles
 
