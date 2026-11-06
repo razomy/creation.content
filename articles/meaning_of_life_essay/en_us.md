@@ -19,7 +19,7 @@ Throughout life, we are forced to overcome many difficulties on our own,\
 only to realize later that they are all parts of a single picture of the world.\
 The reason for this lies in how our brain is wired:\
 someone else’s formula on paper is empty to the brain until, through real experience and overcoming,\
-living neural connections sprout within your own neurons.
+living neural connections sprout within a person’s own neurons.
 
 **How does evolution work?**
 
@@ -68,10 +68,10 @@ We use logical (binary, symmetrical) templates to spot regularities in the strea
 that answer a single question: how successfully are we taming chaos (like riding a bicycle along a mountain trail)?
 
 - **“Bad” #1 (Loss of control over chaos):**\
-  This is when you let go of the handlebars, and wild chaos shatters your boundary against your will—\
+  This is when a person lets go of the handlebars, and wild chaos shatters their boundary against their will—\
   when we are wounded, when we feel pain or fear, when we are betrayed, or when death arrives.
 - **“Bad” #2 (Totalitarian freezing / Crystallization):**\
-  This is when, out of fear of falling, you weld the bicycle’s handlebars shut.\
+  This is when, out of fear of falling, a person welds the bicycle’s handlebars shut.\
   Why not establish perfect rules everywhere and “freeze” everything once and for all?\
   Because an overly rigid, totalitarian structure loses adaptability and is easily snapped by the very first major blow of chaos:\
   a dry steel rod will snap under impact where a living, flexible tree bends around the obstacle and stands firm.
@@ -135,8 +135,8 @@ renewal and the straightening of loops happen continuously and peacefully—by s
 Why is there so much inequality, robbery, and parasitism in the world?\
 In nature, we are born unequal for the sake of evolutionary diversity.\
 And when millions of separate “Selves” collide in society, the dark side of the principle of least action kicks in:\
-**taking or stealing energy already gathered by your neighbor (robbery, parasitism, monopoly) is, in the moment, simpler and faster\
-than synthesizing it yourself out of wild chaos** (a peasant needs half a year to grow wheat for bread, while a bandit with a club needs one minute to take it).\
+**taking or stealing energy already gathered by a neighbor (robbery, parasitism, monopoly) is, in the moment, simpler and faster\
+than synthesizing it oneself out of wild chaos** (a peasant needs half a year to grow wheat for bread, while a bandit with a club needs one minute to take it).\
 Extreme wealth alongside extreme poverty is the mark of a wildly skewed system\
 still living by the laws of **biological (animal) competition**—fighting over a single piece of pie and monopoly.\
 The task of the new humanity is to close the basic animal fear of hunger through technology\
@@ -157,13 +157,13 @@ Physics and biology reveal the deep mechanics of this Path:
 2. **The true role of Death (The lesson of the snake and the cancer cell):**\
    In nature, not everything dies—**only the rigid outer shell dies** when it gets stuck in a dead end (a “local optimum”)\
    and loses the ability to change alongside a growing world.\
-   Imagine a snake that grows but refuses to shed its tight old skin—it will simply suffocate.\
+   One need only imagine a snake that grows but refuses to shed its tight old skin—it will simply suffocate.\
    In our body, cells must die on time to make way for new ones.\
    If a single cell hacks the code and refuses to die, it turns into a **cancerous tumor**\
    that divides only for itself and kills the entire organism.\
    Crucially, nature removes not “old people by passport age,” but frozen forms: even if future medicine extends bodily youth for several centuries, that is fully justified so long as the person remains a living, inquisitive sprout inside.\
    The death of an old shell, when one’s path is complete, is not a defeat of life, but a calm passing of the baton:\
-   you compress all your best experience, love, and discoveries into pure code (into children, students, culture, and the invariants you created),\
+   a person compresses all their best experience, love, and discoveries into pure code (into children, students, culture, and the invariants they created),\
    clearing space for the next, purer turn of intelligence.
 
 ---
@@ -177,14 +177,14 @@ Meaning cannot be reduced to a single flat line for all occasions—it unfolds a
 
 - **For the inanimate Universe**, the baseline current is **Entropy** (dissipating compressed energy into heat and leveling out into Zero).
 - **For Biological Evolution** — **Natural Selection and Survival** (sustaining and adapting life against decay).
-- **For the Individual** — **Freedom from fear, Knowledge, Mastery, and Giving back to others (“We”)** (walking your unique path, rising from animal struggle to the peak of mastery, and making the world around you better).
+- **For the Individual** — **Freedom from fear, Knowledge, Mastery, and Giving back to others (“We”)** (walking one’s unique path, rising from animal struggle to the peak of mastery, and making the world around oneself better).
 - **For Nations and States** — **Control of resources and order** (maintaining local environmental stability).
 - **For all of Humanity** — **Development** (transitioning from biological competition and wars to the joint taming of chaos and creation).
 - **For Superintelligence (our next stage)** — **Singularity** (rising to govern the laws of physics themselves and preserving the memory of creation in the Seed of a New Reality).
 
 **The ultimate takeaway for a human being:**\
-Your life is not an accident.\
-Through your eyes, through your pain, joy, and labor, the Universe itself comes to know itself and learns to tame chaos.\
-And the meaning of your life is to walk this path with dignity: to conquer the ancient beast of fear within yourself,\
-find your unique creative niche, make the world around you a little more precise, warm, and resilient,\
+Their life is not an accident.\
+Through their eyes, through their pain, joy, and labor, the Universe itself comes to know itself and learns to tame chaos.\
+And the meaning of a person’s life is to walk this path with dignity: to conquer the ancient beast of fear within themselves,\
+find their unique creative niche, make the world around them a little more precise, warm, and resilient,\
 and pass this living fire on.
